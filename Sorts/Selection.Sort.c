@@ -10,11 +10,10 @@ int tmp;
 int maior = -1;
 int posMaior = -1;
 
-//for para achar o maio valor//
-
 for(int j = 9; j >= 0; j--){
     maior = -1;
-    for(int i = 0; i <= 9 - j; i++){
+    //for para achar o maio valor//
+    for(int i = 0; i <= j; i++){
         if(vetor[i] > maior){
             posMaior = i;
             maior = vetor[i];
