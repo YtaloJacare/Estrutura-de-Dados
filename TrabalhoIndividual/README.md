@@ -1,4 +1,4 @@
-#Gerenciando uma Lista de Bandas e Artistas
+##Gerenciando uma Lista de Bandas e Artistas
 
 O código é constituído por funções que permitem interações com a lista, tais como Imprimir Artistas e Banda, Editar Artistas, Adicionar Artistas, etc.
 
